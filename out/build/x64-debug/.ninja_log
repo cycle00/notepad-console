@@ -1,0 +1,15 @@
+# ninja log v5
+0	40	6726352617615330	notepad-console/CMakeFiles/notepad-console.dir/file/file.cpp.obj	eed176c66fdac58c
+3	323	6726352620421728	notepad-console/CMakeFiles/notepad-console.dir/notepad-console.cpp.obj	1a034203b8ebe974
+323	532	6726352622441739	notepad-console/notepad-console.exe	9eee3a685ef992a8
+1	321	6726353657224105	notepad-console/CMakeFiles/notepad-console.dir/notepad-console.cpp.obj	1a034203b8ebe974
+322	433	6726353658164092	notepad-console/notepad-console.exe	9eee3a685ef992a8
+1	328	6726354919785773	notepad-console/CMakeFiles/notepad-console.dir/notepad-console.cpp.obj	1a034203b8ebe974
+329	456	6726354920855798	notepad-console/notepad-console.exe	9eee3a685ef992a8
+1	344	6726355174130685	notepad-console/CMakeFiles/notepad-console.dir/notepad-console.cpp.obj	1a034203b8ebe974
+344	453	6726355175030654	notepad-console/notepad-console.exe	9eee3a685ef992a8
+1	326	6726358244320881	notepad-console/CMakeFiles/notepad-console.dir/notepad-console.cpp.obj	1a034203b8ebe974
+327	445	6726358245290877	notepad-console/notepad-console.exe	9eee3a685ef992a8
+1	580	6726450804991708	notepad-console/CMakeFiles/notepad-console.dir/file/file.cpp.obj	eed176c66fdac58c
+3	595	6726450805141696	notepad-console/CMakeFiles/notepad-console.dir/notepad-console.cpp.obj	1a034203b8ebe974
+595	728	6726450806231696	notepad-console/notepad-console.exe	9eee3a685ef992a8

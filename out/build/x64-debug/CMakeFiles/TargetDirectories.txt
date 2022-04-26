@@ -1,0 +1,5 @@
+C:/Users/dmitr/source/repos/notepad-console/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/dmitr/source/repos/notepad-console/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dmitr/source/repos/notepad-console/out/build/x64-debug/notepad-console/CMakeFiles/notepad-console.dir
+C:/Users/dmitr/source/repos/notepad-console/out/build/x64-debug/notepad-console/CMakeFiles/edit_cache.dir
+C:/Users/dmitr/source/repos/notepad-console/out/build/x64-debug/notepad-console/CMakeFiles/rebuild_cache.dir
