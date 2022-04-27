@@ -6,7 +6,6 @@
 int main(int argc, char *argv[])
 {
 	// TODO : OPTIONS
-
 	if (argc < 2) {
 		// show usage
 		return 1;
